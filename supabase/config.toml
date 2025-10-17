@@ -1,0 +1,7 @@
+project_id = "stnwflqwalluzhnyjchy"
+
+[functions.resend]
+verify_jwt = false
+
+[functions.realtime-voice]
+verify_jwt = false
